@@ -1,0 +1,45 @@
+#topo{
+    width: 100%;
+    height: 30px;
+    background-color: rgb(55, 55, 170);
+}
+
+.largurasite{
+    width: 980px;
+    margin: auto;
+    background-color: #fff;
+}
+
+#img1{
+    float: left;
+
+}
+
+#menu{
+    float: right;
+    width: auto;
+    height: auto;
+}
+
+#menu a{
+    color: #fff;
+    font-size: 16px;
+    text-decoration: none;
+    margin-left: 50px;
+}
+
+#menu a:hover{
+    text-decoration: underline;
+
+}
+
+#largurasite home homedir {
+    float: right;
+
+}
+
+#homeesquerda{
+    float: left;
+
+}
+    
